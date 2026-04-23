@@ -1,0 +1,54 @@
+# -----------------------------
+# Frontend (sales-order-app)
+# -----------------------------
+sales-order-app/node_modules/
+sales-order-app/.next/
+sales-order-app/out/
+sales-order-app/build/
+sales-order-app/dist/
+sales-order-app/.env
+sales-order-app/.env.local
+sales-order-app/.env.development.local
+sales-order-app/.env.production.local
+sales-order-app/.env.test.local
+sales-order-app/npm-debug.log*
+sales-order-app/yarn-debug.log*
+sales-order-app/yarn-error.log*
+
+# -----------------------------
+# Backend (.NET - SalesOrderApp)
+# -----------------------------
+SalesOrderApp/**/bin/
+SalesOrderApp/**/obj/
+SalesOrderApp/.vs/
+SalesOrderApp/**/*.user
+SalesOrderApp/**/*.suo
+SalesOrderApp/**/*.cache
+SalesOrderApp/**/*.pdb
+SalesOrderApp/**/*.mdb
+SalesOrderApp/**/*.dbmdl
+SalesOrderApp/**/*.bak
+SalesOrderApp/**/*.nupkg
+SalesOrderApp/**/packages/
+
+# -----------------------------
+# IDE Files
+# -----------------------------
+.vs/
+.vscode/
+.idea/
+
+.env
+.env.*
+
+# -----------------------------
+# Logs
+# -----------------------------
+logs/
+*.log
+
+# -----------------------------
+# OS Files
+# -----------------------------
+.DS_Store
+Thumbs.db
