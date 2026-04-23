@@ -20,9 +20,7 @@ The Sales Order Management System allows users to:
 
 ## 🏗️ Client-Server Architecture
 
-```
-
-```
+<img width="1239" height="642" alt="image" src="https://github.com/user-attachments/assets/62420a51-bc02-4db0-a428-d797e79522d5" />
 
 ---
 
@@ -191,6 +189,8 @@ SalesOrderLines
 ## 🖥️ Screens
 
 ### Screen 1 — Home
+<img width="1890" height="564" alt="Screenshot 2026-04-23 191442" src="https://github.com/user-attachments/assets/11099af1-5c3a-4df2-92a6-49cf46fd0806" />
+
 - Displays all sales orders in a table
 - **Add New** button to create a new order
 - **Edit** button to open an existing order
@@ -198,6 +198,8 @@ SalesOrderLines
 - **Double-click** any row to open it in edit mode
 
 ### Screen 2 — Sales Order
+<img width="1877" height="896" alt="Screenshot 2026-04-23 191510" src="https://github.com/user-attachments/assets/19c3a374-ab4a-4bfc-b220-a0c5b3aa7b64" />
+
 - **Customer Name** dropdown — auto-fills address fields
 - **Invoice No, Invoice Date, Reference No** fields
 - **Item Code & Description** dropdowns — linked together
@@ -287,10 +289,16 @@ App will be available at: `http://localhost:5173`
 ---
 
 ## 📸 Screenshots
+- <img width="1890" height="564" alt="Screenshot 2026-04-23 191442" src="https://github.com/user-attachments/assets/11099af1-5c3a-4df2-92a6-49cf46fd0806" />
 
+- <img width="1877" height="896" alt="Screenshot 2026-04-23 191510" src="https://github.com/user-attachments/assets/19c3a374-ab4a-4bfc-b220-a0c5b3aa7b64" />
+
+- <img width="1883" height="390" alt="Screenshot 2026-04-23 191656" src="https://github.com/user-attachments/assets/5814de46-5073-42cb-b2cb-403f65883422" />
+
+- <img width="1877" height="895" alt="Screenshot 2026-04-23 191632" src="https://github.com/user-attachments/assets/e6180f5d-da23-4ee6-a095-8b85ad8f67da" />
 
 ---
 
 ## 👤 Author
 
-Developed as part of SPIL Labs (Pvt) Ltd. Web Application Development Assessment.
+Developed as part of SPIL Labs (Pvt) Ltd By DulranDev. Web Application Development Assessment.
